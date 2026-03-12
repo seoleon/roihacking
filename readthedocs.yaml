@@ -6,6 +6,4 @@ build:
     python: "3.11"
 
 sphinx:
-  configuration: docs/conf.py
-
-formats: all
+  configuration: conf.py
